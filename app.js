@@ -9,3 +9,4 @@ function genRanNum(){
   console.log(i);
 }
 
+// for (let i = 0; i < arr.length, i++){}
